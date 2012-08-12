@@ -1,1 +1,1 @@
-{"results"=>[{"category"=>"Guide", "name"=>"See All Phones", "pk"=>0, "url"=>"http://priceonomics.com/phones/"}]}
+[{"category":"Guide","name":"See All Phones","pk":0,"url":"http://priceonomics.com/phones/"}]

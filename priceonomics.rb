@@ -7,9 +7,8 @@ File.open('supported-cams.txt') do |f|
   f.each_line do |line|
     line.chomp!
     json = HTTParty.get('http://priceonomics.com/api/v1/search/', {:query => {:query => line}})
-    puts json
-    File.open("prices/#{counter}.txt", 'w') do |w|
-      w << json
+    (!json['results'].empty?) && File.open("prices/#{counter}.txt", 'w') do |w|
+      w << json['results'].to_json
     end
     counter += 1
   end

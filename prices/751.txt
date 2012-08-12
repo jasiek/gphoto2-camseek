@@ -1,1 +1,1 @@
-{"results"=>[{"category"=>"Guide", "name"=>"See All Tablets", "pk"=>0, "url"=>"http://priceonomics.com/tablets/"}]}
+[{"category":"Guide","name":"See All Tablets","pk":0,"url":"http://priceonomics.com/tablets/"}]
