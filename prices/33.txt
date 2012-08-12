@@ -1,0 +1,1 @@
+{"results"=>[{"category"=>"MP3 Players", "category_slug"=>"mp3-players", "count_priced_results"=>89, "make"=>"Archos", "make_slug"=>"archos", "model"=>"605", "model_slug"=>"605", "name"=>"Archos 605", "pk"=>447739, "price_estimate"=>100.0, "url"=>"http://priceonomics.com/mp3-players/archos/605/", "version"=>nil, "version_slug"=>nil, "versionless_name"=>"Archos 605"}]}

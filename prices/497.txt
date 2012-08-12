@@ -1,0 +1,1 @@
+{"results"=>[{"category"=>"Phones", "category_slug"=>"phones", "count_priced_results"=>17, "make"=>"Nokia", "make_slug"=>"nokia", "model"=>"N79", "model_slug"=>"n79", "name"=>"Nokia N79", "pk"=>241599, "price_estimate"=>150.0, "url"=>"http://priceonomics.com/phones/nokia/n79/", "version"=>nil, "version_slug"=>nil, "versionless_name"=>"Nokia N79"}]}

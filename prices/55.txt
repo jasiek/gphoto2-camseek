@@ -1,0 +1,1 @@
+{"results"=>[{"category"=>"Costumes", "category_slug"=>"costumes", "count_priced_results"=>18, "make"=>"Barbie", "make_slug"=>"barbie", "model"=>"3T-4T", "model_slug"=>"3t-4t", "name"=>"Barbie 3T-4T", "pk"=>728963, "price_estimate"=>18.5, "url"=>"http://priceonomics.com/costumes/barbie/3t-4t/", "version"=>nil, "version_slug"=>nil, "versionless_name"=>"Barbie 3T-4T"}]}

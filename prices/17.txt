@@ -1,0 +1,1 @@
+{"results"=>[{"category"=>"Tablets", "category_slug"=>"tablets", "count_priced_results"=>62, "make"=>"Archos", "make_slug"=>"archos", "model"=>"101 G9", "model_slug"=>"101-g9", "name"=>"Archos 101 G9", "pk"=>244190, "price_estimate"=>250.0, "url"=>"http://priceonomics.com/tablets/archos/101-g9/", "version"=>nil, "version_slug"=>nil, "versionless_name"=>"Archos 101 G9"}]}
