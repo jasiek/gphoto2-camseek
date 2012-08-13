@@ -2,15 +2,21 @@ require 'rubygems'
 require 'bundler'
 Bundler.require
 require 'json'
+require 'pp'
 
 config = JSON.parse(File.open('config.json').read)
 
-Ebay::Api.configure do |ebay|
-  ebay.auth_token = config['auth_token']
+Rebay::Api.configure do |ebay|
   ebay.app_id = config['app_id']
-  ebay.dev_id = config['dev_id']
-  ebay.cert = config['cert']
-  ebay.use_sandbox = true
 end
 
-client = Ebay::Api.new
+finder = Rebay::Finding.new
+
+Dir['prices/*'].each do |filename|
+  json = JSON.parse(File.read(filename))
+  json.each do |entry|
+    File.open(File.join('auctions', entry["model_slug"]), 'w') do |f|
+      f << finder.find_items_by_keywords(:keywords => entry["name"])
+    end
+  end
+end
