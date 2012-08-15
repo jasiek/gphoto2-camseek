@@ -10,6 +10,16 @@ Rebay::Api.configure do |ebay|
   ebay.app_id = config['app_id']
 end
 
+Ebay::Api.configure do |ebay|
+  ebay.auth_token = 'prod'
+  ebay.dev_id = config['dev_id']
+  ebay.app_id = config['app_id']
+  ebay.cert = config['cert_id']
+end
+
+client = Ebay::Api.new
+pp client.get_ebay_official_time.timestamp
+
 finder = Rebay::Finding.new
 
 Dir['prices/*'].each do |filename|
