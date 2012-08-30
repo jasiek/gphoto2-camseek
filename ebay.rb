@@ -1,8 +1,11 @@
+require 'json'
+require 'pp'
+require 'net/http'
+require 'net/https'
+
 require 'rubygems'
 require 'bundler'
 Bundler.require
-require 'json'
-require 'pp'
 
 config = JSON.parse(File.open('config.json').read)
 
@@ -11,7 +14,7 @@ Rebay::Api.configure do |ebay|
 end
 
 Ebay::Api.configure do |ebay|
-  ebay.auth_token = 'prod'
+  ebay.auth_token = 'sandbox'
   ebay.dev_id = config['dev_id']
   ebay.app_id = config['app_id']
   ebay.cert = config['cert_id']
