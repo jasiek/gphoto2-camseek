@@ -1,0 +1,1 @@
+[{"category":"Digital Cameras","category_slug":"digital-cameras","count_priced_results":4,"make":"Ricoh","make_slug":"ricoh","model":"Caplio RZ1","model_slug":"caplio-rz1","name":"Ricoh Caplio RZ1","pk":1807290,"price_estimate":6.0,"url":"http://priceonomics.com/digital-cameras/ricoh/caplio-rz1/","version":null,"version_slug":null,"versionless_name":"Ricoh Caplio RZ1"}]

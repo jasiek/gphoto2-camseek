@@ -1,0 +1,1 @@
+[{"category":"Digital cameras","category_slug":"digital-cameras","count_priced_results":2,"make":"Kodak","make_slug":"kodak","model":"CX6200","model_slug":"cx6200","name":"Kodak CX6200","pk":1841442,"price_estimate":26.0,"url":"http://priceonomics.com/digital-cameras/kodak/cx6200/","version":null,"version_slug":null,"versionless_name":"Kodak CX6200"}]

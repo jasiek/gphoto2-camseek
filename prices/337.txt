@@ -1,0 +1,1 @@
+[{"category":"Digital Cameras","category_slug":"digital-cameras","count_priced_results":2,"make":"Kodak","make_slug":"kodak","model":"CX7430","model_slug":"cx7430","name":"Kodak CX7430","pk":1809160,"price_estimate":29.0,"url":"http://priceonomics.com/digital-cameras/kodak/cx7430/","version":null,"version_slug":null,"versionless_name":"Kodak CX7430"}]
