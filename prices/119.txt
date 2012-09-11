@@ -1,0 +1,1 @@
+[{"category":"Digital Camcorders","category_slug":"digital-camcorders","count_priced_results":9,"make":"Canon","make_slug":"canon","model":"Optura XI","model_slug":"optura-xi","name":"Canon Optura XI","pk":1851499,"price_estimate":212.5,"url":"http://priceonomics.com/digital-camcorders/canon/optura-xi/","version":null,"version_slug":null,"versionless_name":"Canon Optura XI"}]
