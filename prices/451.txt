@@ -1,0 +1,1 @@
+[{"category":"Digital Cameras","category_slug":"digital-cameras","count_priced_results":5,"make":"Nikon","make_slug":"nikon","model":"Coolpix 600","model_slug":"coolpix-600","name":"Nikon Coolpix 600","pk":452391,"price_estimate":50.0,"url":"http://priceonomics.com/digital-cameras/nikon/coolpix-600/","version":null,"version_slug":null,"versionless_name":"Nikon Coolpix 600"}]

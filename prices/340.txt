@@ -1,0 +1,1 @@
+[{"category":"Digital Cameras","category_slug":"digital-cameras","count_priced_results":6,"make":"Kodak","make_slug":"kodak","model":"DC120","model_slug":"dc120","name":"Kodak DC120","pk":1997130,"price_estimate":14.0,"url":"http://priceonomics.com/digital-cameras/kodak/dc120/","version":null,"version_slug":null,"versionless_name":"Kodak DC120"}]

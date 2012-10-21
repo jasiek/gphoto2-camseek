@@ -1,0 +1,1 @@
+[{"category":"Video Cameras","category_slug":"video-cameras","count_priced_results":2,"make":"Canon","make_slug":"canon","model":"MVX150I","model_slug":"mvx150i","name":"Canon MVX150I","pk":1850544,"price_estimate":null,"url":"http://priceonomics.com/video-cameras/canon/mvx150i/","version":null,"version_slug":null,"versionless_name":"Canon MVX150I"}]

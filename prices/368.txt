@@ -1,0 +1,1 @@
+[{"category":"Digital Cameras","category_slug":"digital-cameras","count_priced_results":3,"make":"Kodak","make_slug":"kodak","model":"LS420","model_slug":"ls420","name":"Kodak LS420","pk":452132,"price_estimate":20.0,"url":"http://priceonomics.com/digital-cameras/kodak/ls420/","version":null,"version_slug":null,"versionless_name":"Kodak LS420"}]

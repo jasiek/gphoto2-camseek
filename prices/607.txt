@@ -1,0 +1,1 @@
+[{"category":"Digital Cameras","category_slug":"digital-cameras","count_priced_results":7,"make":"Pentax","make_slug":"pentax","model":"Optio 33WR","model_slug":"optio-33wr","name":"Pentax Optio 33WR","pk":451991,"price_estimate":3.5,"url":"http://priceonomics.com/digital-cameras/pentax/optio-33wr/","version":null,"version_slug":null,"versionless_name":"Pentax Optio 33WR"}]

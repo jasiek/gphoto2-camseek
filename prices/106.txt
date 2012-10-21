@@ -1,0 +1,1 @@
+[{"category":"Video Cameras","category_slug":"video-cameras","count_priced_results":2,"make":"Canon","make_slug":"canon","model":"MV630I","model_slug":"mv630i","name":"Canon MV630I","pk":1850519,"price_estimate":null,"url":"http://priceonomics.com/video-cameras/canon/mv630i/","version":null,"version_slug":null,"versionless_name":"Canon MV630I"}]

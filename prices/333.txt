@@ -1,0 +1,1 @@
+[{"category":"Digital Cameras","category_slug":"digital-cameras","count_priced_results":2,"make":"Kodak","make_slug":"kodak","model":"CX7220","model_slug":"cx7220","name":"Kodak CX7220","pk":1780141,"price_estimate":null,"url":"http://priceonomics.com/digital-cameras/kodak/cx7220/","version":null,"version_slug":null,"versionless_name":"Kodak CX7220"}]
