@@ -1,0 +1,1 @@
+[{"category":"Digital Cameras","category_slug":"digital-cameras","count_priced_results":2,"make":"Agfa","make_slug":"agfa","model":"ePhoto 1280","model_slug":"ephoto-1280","name":"Agfa ePhoto 1280","pk":452398,"price_estimate":null,"url":"http://priceonomics.com/digital-cameras/agfa/ephoto-1280/","version":null,"version_slug":null,"versionless_name":"Agfa ePhoto 1280"}]
